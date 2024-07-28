@@ -2,7 +2,8 @@
 Defining class CComplexVector with constructors, destructors, operators of vector sum, vector difference and skalar product
 
 # Input
-0/1 outputfilename.txt real_number imaginary_number/c
+0/1 outputfilename.txt real_number imaginary_number
+
 -------------etc-----------------------------------
 
 Example: 
